@@ -1,0 +1,20 @@
+
+
+.first {
+  display : flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+.second{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+
+
+
+.helderheid{
+  opacity: 0.5;
+}
