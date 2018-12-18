@@ -1,2 +1,1 @@
-# Keyboard-oefeningen
-Keyboard
+[Keyboard-oefeningen](https://samcorstjens.github.io/Keyboard-oefeningen/)
